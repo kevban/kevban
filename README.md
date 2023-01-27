@@ -5,6 +5,7 @@ I am a Master of Accounting graduate with a keen interest in software developmen
 
 *   🌍  I'm based in Toronto, Canada
 *   ✉️  You can contact me at [kban0208@gmail.com](mailto:kban0208@gmail.com)
+*   🚀  I recently worked on [Bank.ly](https://github.com/kevban/bankly-front), a cross-platform personal finance app!
 
 ### Skills 
 <p align="left">
